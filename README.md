@@ -13,7 +13,7 @@ The notebooks are organized as a research portfolio. They include a cleaned AI p
 
 ## Overview
 
-AIRR is an aerial display technology that forms real images in free space using a beam splitter and retro-reflectors. However, the formed aerial image can become blurred due to optical factors such as diffraction, geometrical ray shift, and PSF-related effects.
+AIRR is an aerial display technology that forms real images in free space using a beam splitter and retro-reflectors. However, the formed aerial image can become blurred due to optical factors such as diffraction, geometrical ray shift, and retro-reflector related manufactoring defects.
 
 In this research, I first investigated whether a CNN could learn **pre-restoration** using synthetic PSFs. After that, I also investigated measured PSF data, focusing on pedestal components, ROI selection, and whether the measured PSF can be used reliably as a convolution kernel.
 
